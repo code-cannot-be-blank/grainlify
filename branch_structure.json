@@ -1,0 +1,42 @@
+{
+  "default_branch": "master",
+  "branches": [
+    "design/breadcrumb-pattern",
+    "dev",
+    "feat/issue-1469",
+    "feat/session-timeout-warning-ux",
+    "feature/dynamic-pricing",
+    "feature/extend-program-escrow-analytics-to-track-per-status",
+    "fix/1860-stream-ci",
+    "fix/1860-stream-ci-coverage",
+    "fix/1878-soa-batch-variants",
+    "master",
+    "origin"
+  ],
+  "parent": {
+    "design/breadcrumb-pattern": "master",
+    "dev": "master",
+    "feat/issue-1469": "master",
+    "feat/session-timeout-warning-ux": "master",
+    "feature/dynamic-pricing": "master",
+    "feature/extend-program-escrow-analytics-to-track-per-status": "master",
+    "fix/1860-stream-ci": "master",
+    "fix/1860-stream-ci-coverage": "fix/1860-stream-ci",
+    "fix/1878-soa-batch-variants": "master",
+    "master": null,
+    "origin": "master"
+  },
+  "order": [
+    "master",
+    "design/breadcrumb-pattern",
+    "dev",
+    "feat/issue-1469",
+    "feat/session-timeout-warning-ux",
+    "feature/dynamic-pricing",
+    "feature/extend-program-escrow-analytics-to-track-per-status",
+    "fix/1860-stream-ci",
+    "fix/1878-soa-batch-variants",
+    "origin",
+    "fix/1860-stream-ci-coverage"
+  ]
+}
